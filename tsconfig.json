@@ -11,10 +11,11 @@
     "emitDecoratorMetadata": true,
     "preserveConstEnums": true,
     "removeComments": false,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "skipLibCheck": true
   },
   "include": ["src/**/*.ts"],
   "typeRoots": ["./typing-stubs", "./custom_typings", "./node_modules/@types"],
   "exclude": ["node_modules"],
-  "lib": ["es2015"]
+  "lib": ["es2022"]
 }

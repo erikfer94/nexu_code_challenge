@@ -1,11 +1,15 @@
 # Nexu Backend Coding Exercise
 
+## Requirements
+
+Node.js v16 or higher
+
 ## How to use
 
 Create a copy of `.env.example` file named `.env` and setup your variables.
 
 ```
-cp .env.example env
+cp .env.example .env
 ```
 
 Example variables
